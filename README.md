@@ -7,7 +7,6 @@ Soy estudiante de Desarrollo de Aplicaciones Web y en este repositorio recopilo 
 
 Breve presentación personal:
 
-> Ejemplo:
 > Soy desarrollador enfocado en backend y bases de datos. Me interesa crear aplicaciones funcionales, bien estructuradas y mantenibles, aplicando buenas prácticas de programación y control de versiones.
 
 ---
