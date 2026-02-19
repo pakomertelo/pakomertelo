@@ -1,4 +1,4 @@
-# 👨‍💻 Portfolio – [Tu Nombre]
+# 👨‍💻 Portfolio – Pablo Henríquez Hanna
 
 Bienvenido/a a mi portfolio de desarrollo.
 Soy estudiante de Desarrollo de Aplicaciones Web y en este repositorio recopilo algunos de mis proyectos más representativos.
@@ -119,7 +119,7 @@ project/
 
 ## 📌 Buenas prácticas aplicadas
 
-* Commits descriptivos
+* Commits
 * Código organizado y comentado
 * Uso de `.gitignore`
 * Uso de ramas cuando es necesario
