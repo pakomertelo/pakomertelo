@@ -228,21 +228,4 @@ El proyecto utiliza PHP para la parte de servidor, MySQL/MariaDB para la base de
 * Fetch API
 * SQL
 
----
 
-## 📁 Organización de repositorios
-
-Los proyectos siguen una estructura sencilla y orientada a facilitar la lectura del código. Dependiendo del tipo de proyecto, pueden incluir carpetas para código fuente, estilos, scripts, configuración, imágenes o documentación.
-
-Ejemplo general de organización:
-
-```text
-project/
-│── src/
-│── css/
-│── js/
-│── img/
-│── config/
-│── docs/
-│── README.md
-│── .gitignore
